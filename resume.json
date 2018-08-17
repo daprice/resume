@@ -38,7 +38,7 @@
       "endDate": "2016-08-01",
       "summary": "Front-end design and development on multiple web application products used by oil&gas companies for optimizing drilling processes.",
       "highlights": [
-        "Created interactive data visualizations using D3, Crossfilter, and other front-end technologies backed by a REST API.
+        "Created interactive data visualizations using D3, Crossfilter, and other front-end technologies backed by a REST API.",
         "Collaborated with an agile team using continuous integration workflows to develop approaches for processing, aggregating, and presenting large amounts of data in near-real-time.",
         "Worked with users to ensure that our interface and workflows supported their goals when using the product, giving our products a user experience advantage over established competitors.",
         "Worked with stakeholders to design and develop marketing materials."
