@@ -4,8 +4,8 @@
     "label": "Web Developer",
     "picture": "",
     "email": "daprice@mac.com",
-    "website": "http://dprice.org",
-    "summary": "I'm a web developer specializing in front-end development with interests in UI and UX design and web animation design and techniques. I enjoy participating in Ludum Dare game development competitions and experimenting with 3D printing.",
+    "website": "https://dprice.org",
+    "summary": "I'm a web developer specializing in front-end development with interests in UI and UX design and web animation. I enjoy participating in Ludum Dare game development competitions and experimenting with 3D printing.",
     "location": {
       "city": "Houston",
       "countryCode": "US",
@@ -13,9 +13,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "dale_price",
-        "url": "https://twitter.com/dale_price"
+        "network": "Mastodon",
+        "username": "@dale_price@mastodon.technology",
+        "url": "https://mastodon.technology/@dale_price"
       },
       {
         "network": "GitHub",
@@ -38,7 +38,8 @@
       "endDate": "2016-08-01",
       "summary": "Front-end design and development on multiple web application products used by oil&gas companies for optimizing drilling processes.",
       "highlights": [
-        "Created interactive data visualizations using D3, Crossfilter, and other front-end technologies, collaborating with an agile team to develop approaches for processing, aggregating, and presenting large amounts of data in near-real-time.",
+        "Created interactive data visualizations using D3, Crossfilter, and other front-end technologies backed by a REST API.
+        "Collaborated with an agile team using continuous integration workflows to develop approaches for processing, aggregating, and presenting large amounts of data in near-real-time.",
         "Worked with users to ensure that our interface and workflows supported their goals when using the product, giving our products a user experience advantage over established competitors.",
         "Worked with stakeholders to design and develop marketing materials."
       ]
@@ -58,7 +59,7 @@
       "position": "Web Development Intern",
       "startDate": "2012-06-01",
       "endDate": "2012-12-31",
-      "summary": "Joined the International Space Station Program Integration & Control team developing websites for other NASA departments and exploring options for a potential change of CMS."
+      "summary": "Joined the International Space Station Program Integration & Control team developing websites for other NASA departments and exploring CMS options."
     },
     {
       "company": "Dale Price Web Design",
@@ -67,7 +68,7 @@
       "endDate": "2012-06-10",
       "highlights": [
         "Built and maintained websites for clients including local businesses in Houston and organizations at Baylor University using custom WordPress themes and plugins",
-        "Developed a PHP-based web application to enable players of an online game to present data about themselves from the game's REST API."
+        "Developed a PHP-based web application to enable players of the online game Spore to present and share their in-game accomplishments from the game's REST API."
       ]
     }
   ],
@@ -89,8 +90,10 @@
         "Sass",
         "Less",
         "JavaScript",
+        "ES6",
         "D3",
-        "Phaser"
+        "Phaser",
+        "JQuery"
       ]
     },
     {
@@ -98,17 +101,19 @@
       "keywords": [
         "Node",
         "Express",
-        "ws",
+        "ws (websockets)",
         "PHP",
-        "WordPress"
+        "WordPress",
+        "Jekyll"
       ]
     },
     {
       "name": "DevOps",
       "keywords": [
+        "Git",
         "Docker",
         "Vagrant",
-        "basic Linux/UNIX server administration"
+        "basic UNIX & Linux server administration"
       ]
     },
     {
@@ -131,9 +136,10 @@
       ]
     },
     {
-      "name": "3D Printing",
+      "name": "Electronics",
       "keywords": [
-        "RepRap Project"
+        "RepRap 3D Printers",
+        "Building custom mechanical keyboards"
       ]
     }
   ]
