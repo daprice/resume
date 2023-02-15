@@ -14,8 +14,8 @@
     "profiles": [
       {
         "network": "Mastodon",
-        "username": "@dale_price@mastodon.technology",
-        "url": "https://mastodon.technology/@dale_price"
+        "username": "@dale_price@mastodon.online",
+        "url": "https://mastodon.online/@dale_price"
       },
       {
         "network": "GitHub",
